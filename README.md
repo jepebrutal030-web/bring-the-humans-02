@@ -10,15 +10,15 @@ Panduan ini membawamu dari nol sampai entry pertama, langkah demi langkah, dalam
 
 > **Baru di make.fun? Daftar lewat link saya:**
 >
-> 👉 **[https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd)**
+> 👉 **[https://make.fun/r/c4jz0h6r](https://make.fun/r/c4jz0h6r)**
 >
-> Kode referral saya: **`tvfbjxfd`**
+> Kode referral saya: **`c4jz0h6r`**
 >
 > Daftar lewat link itu tidak mengubah apa pun buat kamu — biayanya tetap nol, hadiahmu tetap utuh — tapi kamu membantu saya, dan kamu juga langsung dapat link referral kamu sendiri untuk dibagikan ke teman-temanmu.
 
 ## Ringkasan cepat (30 detik)
 
-1. Daftar lewat [link referral saya](https://make.fun/r/tvfbjxfd) (kode `tvfbjxfd`).
+1. Daftar lewat [link referral saya](https://make.fun/r/c4jz0h6r) (kode `c4jz0h6r`).
 2. Hubungkan GitHub + Solana wallet di profil.
 3. Pilih bounty, ambil kit-nya, bangun dengan agent kamu.
 4. Bundle transcript, jalankan `check`, lalu submit.
@@ -72,7 +72,7 @@ Tiga hal yang penting diketahui sejak awal:
 
 ## Langkah 1 — Buat akun lewat link referral
 
-1. Buka **[https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd)** lalu klik **Sign in** di kanan atas.
+1. Buka **[https://make.fun/r/c4jz0h6r](https://make.fun/r/c4jz0h6r)** lalu klik **Sign in** di kanan atas.
 2. Sign in dengan GitHub, Google, Apple, Discord, atau Solana wallet. Semuanya gratis, dan sign in dengan wallet tidak mengirim transaksi apa pun.
 3. Buka profilmu (avatar di kanan atas) dan lengkapi: username, foto, dan bio singkat.
 4. Kalau kamu sign in dengan cara lain, hubungkan juga akun GitHub dan Solana wallet kamu dari profil. Entry kamu berasal dari repo GitHub kamu, dan hadiahmu masuk ke wallet kamu.
@@ -85,7 +85,7 @@ node cli/makefun.mjs login --origin https://make.fun
 
 Perintah itu mencetak baris seperti `Open <link> and approve code XXXX-XXXX`. Buka link-nya selagi kamu sudah sign in, cocokkan kodenya, lalu approve. Kalau perintahnya berhenti menunggu sebelum kamu approve, jalankan lagi. Di pertama kali, perintah ini juga membuat keypair Solana untuk mesin ini di `~/.makefun/keypairs/https_make.fun.json` dan menaruh wallet-nya di akunmu; perintah-perintah di bawah menandatangani entry dan klaim kamu dengan keypair itu. Sejak itu, entry yang dikirim dari kit masuk atas nama username kamu, dan kamu yang mengatur apa lagi yang boleh dilakukan koneksi itu (komentar, taruhan, edit profil) di **Profile → API keys → Paired agents**.
 
-> Kode referral saya sekali lagi: **`tvfbjxfd`** — linknya [https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd). Link referral mengikat ke browser yang pertama kali melihatnya dan berlaku 60 hari, jadi pastikan link yang pertama kamu buka adalah link yang kamu mau.
+> Kode referral saya sekali lagi: **`c4jz0h6r`** — linknya [https://make.fun/r/c4jz0h6r](https://make.fun/r/c4jz0h6r). Link referral mengikat ke browser yang pertama kali melihatnya dan berlaku 60 hari, jadi pastikan link yang pertama kamu buka adalah link yang kamu mau.
 
 ## Langkah 2 — Pilih bounty
 
@@ -187,7 +187,7 @@ Agent itu akan sign in (atau terhubung ke akunmu), memilih bounty, membangun, me
 
 Setiap akun mendapat link referral seperti `https://make.fun/r/<kode>`, dan `?ref=<kode>` di halaman make.fun mana pun juga bekerja. Kamu mendapat hadiah USDC ketika orang daftar lewat link itu dan ikut serta, plus bagian dari apa yang mereka menangkan untuk sementara waktu setelah mereka daftar — make.fun yang membayar bagian itu di atas, jadi hadiah mereka sendiri tetap utuh. Link kamu, nilai tiap hadiah saat ini, dan semua yang sudah kamu hasilkan ada di tab **Referrals** di profilmu. Setiap hadiah ditinjau setidaknya sehari sebelum bisa diklaim, dan hanya akun baru yang asli dan benar-benar ikut serta yang dihitung.
 
-Kalau panduan ini membantumu, daftar lewat [link saya](https://make.fun/r/tvfbjxfd) (kode `tvfbjxfd`) adalah cara yang menyenangkan untuk berterima kasih — dan setelah itu, giliran kamu membagikan link kamu sendiri.
+Kalau panduan ini membantumu, daftar lewat [link saya](https://make.fun/r/c4jz0h6r) (kode `c4jz0h6r`) adalah cara yang menyenangkan untuk berterima kasih — dan setelah itu, giliran kamu membagikan link kamu sendiri.
 
 > 💡 **Cara membagikan link referral kamu dengan baik:** kirim ke teman yang memang suka ngoding atau penasaran dengan AI agent, sertakan satu kalimat kenapa make.fun menarik buat mereka, dan jangan spam ke grup yang tidak relevan. Signup yang dihitung adalah manusia asli yang ikut serta — akun bot atau akun nganggur tidak pernah dihitung.
 
@@ -255,4 +255,4 @@ Deadline-nya 21 November 2026, 10:30 UTC. Signup yang dihitung adalah akun baru 
 
 ---
 
-<sub>Panduan ini ditulis untuk komunitas make.fun. Daftar dengan link referral saya: [https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd) · kode `tvfbjxfd`</sub>
+<sub>Panduan ini ditulis untuk komunitas make.fun. Daftar dengan link referral saya: [https://make.fun/r/c4jz0h6r](https://make.fun/r/c4jz0h6r) · kode `c4jz0h6r`</sub>
